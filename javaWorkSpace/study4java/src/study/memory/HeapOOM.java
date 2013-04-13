@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 
  * @author zlc
- * @说明 操作《深入理解Java虚拟机》书中实例之Java堆内存溢出异常测试
+ * @说明 操作之Java堆内存溢出异常测试
  * JVM Args:-Xms10m -Xmx10m -XX:+HeapDumpOnOutOfMemoryError
  */
 public class HeapOOM {
