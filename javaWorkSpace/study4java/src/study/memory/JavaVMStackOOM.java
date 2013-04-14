@@ -1,7 +1,8 @@
 package study.memory;
 /**
- * VM Args:-Xss2M
  * @author zlc
+ * @说明 创建线程倒闸内存溢出异常
+ * JVM Args:-Xss2M
  *
  */
 public class JavaVMStackOOM {
